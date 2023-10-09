@@ -1,0 +1,30 @@
+ 
+.pizza-card {
+    width: 300px;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: black;
+    border: 1px solid black;
+    background-color: #fff;
+    margin: 20px auto;
+    text-align: center;
+
+  }
+  
+  .pizza-card img {
+    width: 100%;
+   
+  }
+  
+  .pizza-card h2, p {
+    font-size: 20px;
+    margin: 10px 0;
+  }
+  
+ 
+  .error {
+    margin: 20px auto;
+    text-align: center;
+
+  }
+  
